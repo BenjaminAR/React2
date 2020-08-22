@@ -24,3 +24,7 @@ const getUser = () => ({
 });
 
 console.log( getUser() )
+
+console.log(10+6)
+
+
